@@ -1,0 +1,21 @@
+assalamu'alaikum
+
+
+terimakasih banyak atas sumbangan anda perjuangannya melewati link yang saya beri
+
+dan saya berharap kepada anda agar tidak egosi dengan menyebar luaskan script ini,karna apa ? anda yang bersusah susah payah melewati link tersebut tapi kalo anda membagikan ini secara instan di mana harga diri anda ? 
+
+
+command :
+pkg update  
+pkg install git -y
+pkg install bash -y
+pkg install neofetch -y
+cd $HOME  
+git clone https://github.com/Lubebansokhekel/Pasang  
+cd Pasang
+git pull origin main  
+git stash
+bash toolsv5
+
+script ini hanya berlaku di pemakaian aplikasi termux saja. jadi jangan anda jalankan di aplikasi lain / kali linux 
